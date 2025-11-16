@@ -1,0 +1,1 @@
+There are two network analysis files: one is used to calculate the network resilience changes as node failures accumulate progressively, and the other is used to compute the resilience value of each node in the network.
